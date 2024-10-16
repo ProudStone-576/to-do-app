@@ -95,5 +95,3 @@ sql
    git add README.md
    git commit -m "Add README file"
    git push
-
-Feel free to modify the README file to better fit your project's specifics!
